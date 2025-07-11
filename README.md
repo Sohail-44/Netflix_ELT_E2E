@@ -1,4 +1,4 @@
-a# StayOnFlix # 
+# StayOnFlix # 
 Brief Description : 
 StayOnFlix is a project to do deep analytics of Netflix to detect and prevent content fatigue-driven churn in netflix users
 and recommend appropriate interventions to minimize revenue loss and improve overall content recommending.
