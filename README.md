@@ -1,9 +1,11 @@
-# StayOnFlix # 
+# Netflix_ELT_E2E# 
 Brief Description : 
-StayOnFlix is a project to do deep analytics of Netflix to detect and prevent content fatigue-driven churn in netflix users
-and recommend appropriate interventions to minimize revenue loss and improve overall content recommending.
+StayOnFlix is an end-to-end ELT project where I have taken data from Kaggle API of Netflix and after extracting the data, I loaded it into postgre SQL database where I have performed through cleaning and analysis of the data and have tranformed it after some basic exploratory data analysis of the data in. 
 
-I will be  merging real Netflix data of shows and movies + simulated synthetic data of Netflix churn from Kaggle Datasets in order to
-simulate time-based viewing behavior, scroll fatigue, content repetition, interest dip post trendy shows/series and boredom signatures.
+Tech stacks used :
+Python (psycopg2)
+Pandas 
+Seaborn
+Postgre SQL
 
-More updates coming soon... 
+
